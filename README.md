@@ -1,8 +1,6 @@
 # Okta Questionnaire
 An Okta assessment questionnaire to capture an overall picture of the org
 
-# Universal Directory
-
 ## Users
 - [ ] How many users are in the directory?
 - [ ] How are users created?
@@ -45,6 +43,7 @@ An Okta assessment questionnaire to capture an overall picture of the org
 - [ ] Are owners identified for each app?
 - [ ] What's the process to request apps be integrated?
 - [ ] Is there an assignment strategy documented for each app?
+- [ ] Are there on-prem applications in scope?
 
 ## Networks
 - [ ] What networks are defined in Okta?
@@ -87,7 +86,8 @@ An Okta assessment questionnaire to capture an overall picture of the org
 - [ ] Do you have other Okta instances?
 - [ ] Is Terraform-based Okta infrastructure in place?
 
-## Cloud Infrastructure?
+## Cloud Infrastructure
+What cloud infrastructure is integrated into Okta?
 - [ ] AWS
 - [ ] GCP
 - [ ] Azure
