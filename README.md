@@ -30,7 +30,6 @@ An Okta assessment questionnaire to capture an overall picture of the org
     - [ ] Is AD a source of identities?
 - [ ] Is LDAP integrated?
 - [ ] Are other directories integrated?
-- [ ] Are other directories integrated?
 - [ ] If the Okta LDAP Interface in use, what is using it?
 
 ## Applications
