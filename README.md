@@ -43,12 +43,17 @@ An Okta assessment questionnaire to capture an overall picture of the org
 - [ ] Are owners identified for each app?
 - [ ] What's the process to request apps be integrated?
 - [ ] Is there an assignment strategy documented for each app?
+- [ ] Do any apps have app-specific login policies?
 - [ ] Are there on-prem applications in scope?
 
 ## Networks
-- [ ] What networks are defined in Okta?
+- [ ] What networks are defined?
 - [ ] What dynamic networks are defined?
-- [ ] Do 
+
+## Administrators
+- [ ] How many administrators exist?
+- [ ] Are admin permissions properly configured?
+- [ ] Are admin permission reviewed periodically?
 
 ## API Tokens
 - [ ] How many tokens are in use?
