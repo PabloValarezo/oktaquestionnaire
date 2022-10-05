@@ -101,7 +101,7 @@ What cloud infrastructure is integrated into Okta?
 - [ ] Databricks
 - [ ] Other cloud infrastructure?
 
-# Regulations/Audits
+## Regulations/Audits
 
 What regulations are in scope for the company?
 - [ ] SOC2
