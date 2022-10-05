@@ -28,6 +28,8 @@ An Okta assessment questionnaire to capture an overall picture of the org
     - [ ] How many agents?
     - [ ] Are agents in auto-update mode?
     - [ ] Is AD a source of identities?
+    - [ ] Is AD password sync enabled?
+    - [ ] Is AD Integrated Windows Authentication in use?
 - [ ] Is LDAP integrated?
 - [ ] Are other directories integrated?
 - [ ] If the Okta LDAP Interface in use, what is using it?
@@ -72,24 +74,35 @@ An Okta assessment questionnaire to capture an overall picture of the org
 - [ ] What Factor policies are defined?
 - [ ] What Factor rules are enforced?
 
+## Okta Workflows
+- [ ] Is Okta Workflows procured?
+- [ ] What type of workflows are in production?
+- [ ] Is there a roadmap of other workflows
+- [ ] Are there any web hooks created and in use?
+
 ## General
 - [ ] Are the right contacts in place?
-- [ ] Are emails configured?
-- [ ] Templates 
+- [ ] Are emails templates configured?
 - [ ] What EA features are enabled?
-- [ ] ThreatInsight review
-- [ ] HealthInsight review
+- [ ] Is ThreatInsight configured and complete?
+- [ ] Is HealthInsight configured and complete?
+
+## Other
+- [ ] Is the version of this Okta instance Okta Identity Engine (OIE) or Classic?
+- [ ] What Okta Cell is your instance in?
+- [ ] Do you have an Okta Preview instance?
+- [ ] Do you have other Okta instances?
+- [ ] Is Terraform-based Okta infrastructure in place?
+- [ ] Is RADIUS configured?
+- [ ] Is On-Premise Provisioning (OPP) used?
+- [ ] Is Device Trust in use?
+- [ ] Is Okta Access Gateway (OAG) used?
+- [ ] Is Okta Advanced Server Access (ASA) used?
 
 ## Okta Contract
 - [ ] What is the timing of the contract?
 - [ ] What SKUs are purchased?
 - [ ] Are there opportunities for right-sizing the contract?
-
-## Other
-- [ ] What Okta Cell is your instance in?
-- [ ] Do you have an Okta Preview instance?
-- [ ] Do you have other Okta instances?
-- [ ] Is Terraform-based Okta infrastructure in place?
 
 ## Cloud Infrastructure
 What cloud infrastructure is integrated into Okta?
