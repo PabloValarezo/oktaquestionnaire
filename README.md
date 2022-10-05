@@ -77,15 +77,15 @@ An Okta assessment questionnaire to capture an overall picture of the org
 - [ ] HealthInsight review
 
 ## Okta Contract
-- [ ] Timing of contract
-- [ ] SKUs
-- [ ] Opportunities for right-sizing?
+- [ ] What is the timing of the contract?
+- [ ] What SKUs are purchased?
+- [ ] Are there opportunities for right-sizing the contract?
+
+## Other
 - [ ] What Okta Cell is your instance in?
 - [ ] Do you have an Okta Preview instance?
 - [ ] Do you have other Okta instances?
-
-## Other
-Is Terraform-based Okta infrastructure in place?
+- [ ] Is Terraform-based Okta infrastructure in place?
 
 ## Cloud Infrastructure?
 - [ ] AWS
