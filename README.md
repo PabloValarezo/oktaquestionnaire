@@ -120,7 +120,8 @@ What regulations are in scope for the company?
 - [ ] SOX
 - [ ] PCI
 - [ ] HIPAA
-- [ ] HI-Trust
+- [ ] HITRUST
+- [ ] FedRAMP
 - [ ] GDPR
 - [ ] GLBA
 - [ ] FISMA
