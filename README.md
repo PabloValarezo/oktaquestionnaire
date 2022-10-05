@@ -62,15 +62,16 @@ An Okta assessment questionnaire to capture an overall picture of the org
 - [ ] Are owners known and documented?
 
 ## Factors
-- [ ] Available
-- [ ] Allowed
-- [ ] Registration
+- [ ] What factors are available to users?
+- [ ] Are there different factors available to different groups of users?
 
 ## Policies
-- [ ] Rules
-- [ ] Workflows
-- [ ] Sign-On
-- [ ] MFA
+- [ ] What Sign-On policies are defined?
+- [ ] What Sign-On rules are enforced?
+- [ ] What Password policies are defined?
+- [ ] What Password rules are enforced?
+- [ ] What Factor policies are defined?
+- [ ] What Factor rules are enforced?
 
 ## General
 - [ ] Are the right contacts in place?
